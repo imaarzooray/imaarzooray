@@ -13,16 +13,16 @@
 ### About
 Full-Stack Web Developer. Building Dripkite, Measurement Engine and JanaSatya.
 
-<img src="https://github-readme-stats.vercel.app/api?username=aarzooray&show_icons=true&theme=dark&hide_border=true" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=imaarzooray&show_icons=true&theme=dark&hide_border=true" alt="stats" />
 
 ### 🔧 Featured
-- [Dripkite](https://github.com//dripkite) — Web App that acts a mediator between Tailor and Customer · `Python` · ` OPEN CV`. live demo ➜ link
-- [HealZenic](https://github.com/aarzooray/healzenicTest) — Health Management and Improving Web App· `React`
-- [JanaSatya](https://github.com/aarzooray/janasatya) — Industry level News Media Web App · `MERN`
+- [Dripkite](https://github.com/imaarzooray/dripfit) — Web App that acts a mediator between Tailor and Customer · `Python` · ` OPEN CV`. live demo ➜ link
+- [HealZenic](https://github.com/imaarzooray/healzenicTest) — Health Management and Improving Web App· `React`
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=aarzooray&show_icons=true&theme=dark&hide_border=true" alt="github stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarzooray&layout=compact&theme=dark&hide_border=true" alt="top languages"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=imaarzooray&show_icons=true&theme=dark&hide_border=true" alt="github stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaarzooray&layout=compact&theme=dark&hide_border=true" alt="top languages"/>
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript)](https://www.typescriptlang.org)
 [![React](https://img.shields.io/badge/-React-0ea5e9?style=flat-square&logo=react)](https://reactjs.org)
@@ -39,11 +39,11 @@ Full-Stack Web Developer. Building Dripkite, Measurement Engine and JanaSatya.
 
 
 ### 🐍 Contribution Snake
-![GitHub Snake Light](https://github.com/aarzooray/aarzooray/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/aarzooray/aarzooray/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/imaarzooray/imaarzooray/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/imaarzooray/imaarzooray/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
-> Last updated: 2025-09-25 08:30 UTC
+> Last updated: 08 DEC 2025 06:49 UTC
 
 > exit
 Session terminated.
