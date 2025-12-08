@@ -21,7 +21,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: aarzoo
+          github_user_name: Aarzoo
           outputs: dist/github-contribution-grid-snake.svg
 
       # Ensure output branch exists
