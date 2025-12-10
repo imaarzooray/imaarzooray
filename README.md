@@ -13,8 +13,10 @@
 ### About
 Learning ARTIFICIAL INTELLIGENCE & Extended Reality | Full-Stack Web Developer | Web Designer | Passionate for Physics
 
-<img src="https://github-readme-stats.vercel.app/api?username=imaarzooray&show_icons=true&theme=dark&hide_border=true" alt="stats" />
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=imaarzooray&show_icons=true&theme=dark&hide_border=true)
+<img src="
+  https://github-readme-stats.vercel.app/api?username=imaarzooray&show_icons=true&theme=dark&hide_border=true
+  " alt="stats" />
+
 
 
 ### 🔧 Featured
