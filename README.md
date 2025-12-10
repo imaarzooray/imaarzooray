@@ -11,9 +11,11 @@
  \____|\__,_|_| |_| |_|\___|_|\_\___/
 ```
 ### About
-Full-Stack Web Developer. Building Dripkite, Measurement Engine and JanaSatya.
+Learning ARTIFICIAL INTELLIGENCE & Extended Reality | Full-Stack Web Developer | Web Designer | Passionate for Physics
 
 <img src="https://github-readme-stats.vercel.app/api?username=imaarzooray&show_icons=true&theme=dark&hide_border=true" alt="stats" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=imaarzooray&show_icons=true&theme=dark&hide_border=true)
+
 
 ### 🔧 Featured
 - [Dripkite](https://github.com/imaarzooray/dripfit) — Web App that acts a mediator between Tailor and Customer · `Python` · ` OPEN CV`. live demo ➜ link
