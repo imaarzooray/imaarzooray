@@ -1,7 +1,8 @@
 <!-- header -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=700&color=00FF41&center=true&width=650&lines=%3E+whoami%20%3A%20aarzooray;%3E%20role%20%3A%20Full-Stack%20Developer%20%7C%20Aspiring%20AR/VR%20Engg." alt="typing">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=700&color=00FF41&center=true&width=720&lines=%3E+whoami+%3A+I+am+Aarzoo+Ray;%3E+role+%3A+Aspiring+XR+Engineer+%7C+Full-Stack+Web+Developer+%7C+Web+Designer." alt="typing">
 </p>
+
 
 ```text
   ____                       _       
