@@ -10,8 +10,14 @@
 | |_| | (_| | | | | | |  __/   <\__ \
  \____|\__,_|_| |_| |_|\___|_|\_\___/
 ```
-### About
-Learning ARTIFICIAL INTELLIGENCE & Extended Reality | Full-Stack Web Developer | Web Designer | Passionate for Physics
+### 🚀 About Me
+
+- **AI & XR Innovator | Full-Stack Systems Engineer | Design-Led Technologist**
+- Driving end-to-end solution delivery across **Artificial Intelligence**, **Extended Reality**, and **Web Engineering**.  
+- Architecting immersive interfaces, high-performance applications, and physics-informed digital experiences that scale.
+
+🔧 *Engineering the future at the intersection of computation, creativity, and spatial design.*  
+
 
 <img src="
   https://github-readme-stats.vercel.app/api?username=imaarzooray&show_icons=true&theme=dark&hide_border=true
@@ -20,13 +26,13 @@ Learning ARTIFICIAL INTELLIGENCE & Extended Reality | Full-Stack Web Developer |
 
 
 ### 🔧 Featured
-- [Dripkite](https://github.com/imaarzooray/dripfit) — Web App that acts a mediator between Tailor and Customer · `Python` · ` OPEN CV`. live demo ➜ link
-- [HealZenic](https://github.com/imaarzooray/healzenicTest) — Health Management and Improving Web App· `React`
+- [DripFit](https://github.com/imaarzooray/Dripfit) — AI-powered body-measurement engine using computer vision, 3D modeling, and ML for precision tailoring automation. OpenCV · TensorFlow · Python
+- [Farm Surplus Rescue App ](https://github.com/imaarzooray/FarmSurplus2) —AI-driven platform connecting farmers, NGOs, and transporters for optimized food-waste reduction. ML · Maps API · Full-Stack
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=imaarzooray&show_icons=true&theme=dark&hide_border=true" alt="github stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaarzooray&layout=compact&theme=dark&hide_border=true" alt="top languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaarzooray\&layout=compact\&theme=dark\&hide_border=true" alt="top languages"/>
+
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript)](https://www.typescriptlang.org)
 [![React](https://img.shields.io/badge/-React-0ea5e9?style=flat-square&logo=react)](https://reactjs.org)
@@ -47,7 +53,7 @@ Learning ARTIFICIAL INTELLIGENCE & Extended Reality | Full-Stack Web Developer |
 ![GitHub Snake Dark](https://github.com/imaarzooray/imaarzooray/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
-> Last updated: 08 DEC 2025 06:49 UTC
+> Last updated: 12 DEC 2025 18:40 UTC
 
 > exit
 Session terminated.
