@@ -18,21 +18,9 @@
 
 🔧 *Engineering the future at the intersection of computation, creativity, and spatial design.*  
 
-
-<img src="
-  https://github-readme-stats.vercel.app/api?username=imaarzooray&show_icons=true&theme=dark&hide_border=true
-  " alt="stats" />
-
-
-
 ### 🔧 Featured
 - [DripFit](https://github.com/imaarzooray/Dripfit) — AI-powered body-measurement engine using computer vision, 3D modeling, and ML for precision tailoring automation. OpenCV · TensorFlow · Python
 - [Farm Surplus Rescue App ](https://github.com/imaarzooray/FarmSurplus2) —AI-driven platform connecting farmers, NGOs, and transporters for optimized food-waste reduction. ML · Maps API · Full-Stack
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaarzooray\&layout=compact\&theme=dark\&hide_border=true" alt="top languages"/>
-
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript)](https://www.typescriptlang.org)
 [![React](https://img.shields.io/badge/-React-0ea5e9?style=flat-square&logo=react)](https://reactjs.org)
@@ -45,12 +33,6 @@
 [![Bash](https://img.shields.io/badge/-Bash-2d3748?style=flat-square&logo=gnubash)](https://www.gnu.org/software/bash)
 [![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python)](https://www.python.org)
 [![OpenCV](https://img.shields.io/badge/-OpenCV-5a0fc8?style=flat-square&logo=opencv)](https://opencv.org)
-
-
-
-### 🐍 Contribution Snake
-![GitHub Snake Light](https://github.com/imaarzooray/imaarzooray/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/imaarzooray/imaarzooray/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
 > Last updated: 12 DEC 2025 18:40 UTC
