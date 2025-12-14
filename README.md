@@ -1,7 +1,8 @@
 <!-- header -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat+Alternates&size=24&pause=700&color=800080&left=true&width=720&lines=%3E+Who+Am+I+%3F+%3A+I+am+Pankaj+Kumar+Ray%3B;%3E+Role+%3A+Aspiring+Machine+Learning+Scientist+and+Entrepreneur." alt="typing">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=26&pause=700&color=8A2BE2&left=true&width=720&lines=%3E+Who+Am+I+%3F+%3A+I+am+Pankaj+Kumar+Ray%3B;%3E+Role+%3A+Aspiring+Machine+Learning+Scientist+and+Entrepreneur." alt="typing">
 </p>
+
 
 
 
