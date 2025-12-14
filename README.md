@@ -1,6 +1,6 @@
 <!-- header -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=32&pause=700&color=28A745&left=true&width=800&lines=%3E+Who+Am+I+%3F+%3A+I+am+Pankaj+Kumar+Ray+(+Aarzoo+)+%3B;%3E+Role+%3A+Aspiring+Machine+Learning+Scientist+and+Entrepreneur." alt="typing">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=32&pause=700&color=28A745&left=true&width=600&lines=%3E+Who+Am+I+%3F+%3A+I+am+Pankaj+Kumar+Ray+(+Aarzoo+)+%3B;%3E+Role+%3A+Aspiring+Machine+Learning+Scientist." alt="typing">
 </p>
 
 
@@ -21,7 +21,9 @@
 - Driving end-to-end solution delivery across **Artificial Intelligence**, **Extended Reality**, and **Web Engineering**.  
 - Architecting immersive interfaces, high-performance applications, and physics-informed digital experiences that scale.
 
-🔧 *Engineering the future at the intersection of computation, creativity, and spatial design.*  
+---------
+👨‍🔬 *Engineering the future at the intersection of computation, creativity, and spatial design.*  
+--
 
 ### 🔧 Featured
 - [DripFit](https://github.com/imaarzooray/Dripfit) — AI-powered body-measurement engine using computer vision, 3D modeling, and ML for precision tailoring automation. OpenCV · TensorFlow · Python
@@ -41,9 +43,6 @@
 [![Illustrator](https://img.shields.io/badge/-Illustrator-f97316?style=flat-square&logo=adobeillustrator)](https://www.adobe.com/products/illustrator.html)
 [![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python)](https://www.python.org)
 
-
-
-> Last updated: 12 DEC 2025 18:40 UTC
 
 > exit
 Session terminated.
